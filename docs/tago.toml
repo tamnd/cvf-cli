@@ -1,0 +1,10 @@
+title       = "cvf"
+baseURL     = "https://cvf-cli.tamnd.com/"
+description = "Browse Computer Vision Foundation conference papers"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/cvf-cli"
